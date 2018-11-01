@@ -1,6 +1,6 @@
 # 2D_Rectangular_Membrane_Mode_Animator
 
-% File   :  MJN__2DRectMembrane_Mode_Animator_V1a.m
+% File   :  MJN__2DRectMembrane_Mode_Animator_V1b.m
 
 % Summary:  Script to generate/animate modal plots for rectangular membranes
 
@@ -12,6 +12,6 @@
 
 % Youtube: https://www.youtube.com/watch?v=aPX9b726H-4&list=PLwF_PUjl-StIT5L1P-81yiAA72-XWgrSP
 
-% Date   :  26/10/2018     
+% Date   :  01/11/2018     
 
 % Version:  V1b
