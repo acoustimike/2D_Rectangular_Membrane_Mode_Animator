@@ -19,3 +19,5 @@
 ---
 
 ### Description
+
+Display visually (and animate if desired) the modes of a rectangular 2D membrane, using Matlab.
