@@ -1,17 +1,21 @@
-# 2D_Rectangular_Membrane_Mode_Animator
+## 2D_Rectangular_Membrane_Mode_Animator
 
-% File   :  MJN__2DRectMembrane_Mode_Animator_V1b.m
+### File   :  MJN__2DRectMembrane_Mode_Animator_V1b.m
 
-% Summary:  Script to generate/animate modal plots for rectangular membranes
+### Summary:  Script to generate/animate modal plots for rectangular membranes
 
-% Author :  Michael Newton
+### Author:   Michael Newton (http://acoustimike.co.uk/ // https://twitter.com/acoustimike)
 
-% Web    :  http://acoustimike.co.uk/
+### Github :  https://github.com/acoustimike/2D_Rectangular_Membrane_Mode_Animator
 
-% Github :  https://github.com/acoustimike/2D_Rectangular_Membrane_Mode_Animator
+### Youtube:  https://www.youtube.com/watch?v=aPX9b726H-4&list=PLwF_PUjl-StIT5L1P-81yiAA72-XWgrSP
 
-% Youtube: https://www.youtube.com/watch?v=aPX9b726H-4&list=PLwF_PUjl-StIT5L1P-81yiAA72-XWgrSP
+### Date   :  14/11/2018     
 
-% Date   :  01/11/2018     
+### Version:  V1c
 
-% Version:  V1b
+### Requirements: Matlab 2018a (or newer)
+
+---
+
+### Description
